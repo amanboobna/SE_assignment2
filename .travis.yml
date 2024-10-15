@@ -20,7 +20,7 @@ after_script:
 
 env:
   global:
-    - COVERALLS_REPO_TOKEN=nTKbJjmdfIQtxqK64WgfYxUPOvzWCLAAE
+    - COVERALLS_REPO_TOKEN= jR9eIfTrWXxtxCbFIAWl1MkGETSPbruuQ
 
 
 
