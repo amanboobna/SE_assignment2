@@ -30,8 +30,8 @@ deploy:
   access_key_id: $AWS_ACCESS_KEY_ID
   secret_access_key: $AWS_SECRET_ACCESS_KEY
   region: us-east-1
-  app: mysite
-  env: mysite-dev
-  bucket_name: elasticbeanstalk-us-east-1-545009833359
+  app: aman-dev
+  env: aman-dev-dev2
+  bucket_name: elasticbeanstalk-us-east-1-724772052798
   on:
     branch: main
